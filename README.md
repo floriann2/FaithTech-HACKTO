@@ -1,4 +1,4 @@
-# FaithTech-HAF CKTO
+# FaithTech-HACKTO
 
 Inspiration:
 This is where faith meets ation action. Hackathons are an exciting, short-term community environment, 
