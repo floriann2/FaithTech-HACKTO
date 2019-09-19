@@ -4,7 +4,7 @@
 This is where faith meets ation action. Hackathons are an exciting, short-term community environment, 
 where we can tackle challenges and find solutions using technology to move the mission of Jesus forward. 
 
-</b>What it does</b>:
+<b>What it does</b>:
 Passenger Collection App and Database Tool for Mission Aviation Fellowship. 
 
 <b>How I built it</b>:
