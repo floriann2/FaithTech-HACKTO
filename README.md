@@ -13,5 +13,5 @@ Using a combination of HMTL, CSS, JS, and BootStrap, we are continuosly developi
 ## What I Learned
 Not all data is meant to be captured; exlusivity and privacy rights are to be taken very seriously. 
 
-## What is Next
+## What's Next
 Continuous iteration on application & database using React and SQL tools. Test Trial preparation underway.
